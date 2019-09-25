@@ -1,5 +1,5 @@
 {
-  "name": "express-http-proxy",
+  "name": "wi-express-http-proxy",
   "version": "1.5.2",
   "description": "http proxy middleware for express",
   "engines": {
